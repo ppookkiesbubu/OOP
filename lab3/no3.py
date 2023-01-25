@@ -10,8 +10,8 @@ def is_plusone_dictionary(d):
         return True
     else:
         return False
-d = {1:2, 3:4, 5:6, 7:8}
-print(is_plusone_dictionary(d))
+# d = {1:2, 3:4, 5:6, 7:8}
+# print(is_plusone_dictionary(d))
 
 
 
